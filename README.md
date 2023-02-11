@@ -194,7 +194,7 @@ Each machine is designed to support one-image for multi-SKUs.
 
 - **Component Management and Firmware Updare**
     
-    (For more details, please see **https://github.com/alan3138319/AlanW#meta-alan**) //TODO
+    (For more details, please see **https://github.com/alan3138319/AlanW/blob/master/ComponentMgmtFWupdate.md#component-firmware-update-and-management**)
 
     **- Provide more detail information of firmware inventory**
 
@@ -210,7 +210,7 @@ Each machine is designed to support one-image for multi-SKUs.
 
     Below link demos the BIOS firmare update with debug mode
 
-    - **https://www.linkedin.com/posts/** //TODO
+    - **https://www.linkedin.com/feed/update/urn:li:activity:7030112532245737472/**
 
 
 - **Common Libraries/Tools For Platform Using**
@@ -220,6 +220,6 @@ Each machine is designed to support one-image for multi-SKUs.
     ![recipe-alan.png](figs/recipe-alan.png)
 
 
-### If you have interests, it's very welcome to contact me.
+### If you have an interest, it's very welcome to contact me.
 - **https://www.linkedin.com/in/alan-wang-8b48b9248/**
 * **alan3138319@gmail.com**

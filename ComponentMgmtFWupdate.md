@@ -34,7 +34,7 @@ Below is a brief figure to illustrate the flow of component firmware update
 
 Below link demos the BIOS firmare update with debug mode
 
-- **https://www.linkedin.com/posts/** //TODO
+- **https://www.linkedin.com/feed/update/urn:li:activity:7030112532245737472/**
 
 
 ## **The component-manager**
