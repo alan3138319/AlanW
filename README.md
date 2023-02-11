@@ -58,11 +58,11 @@ It hides the details of implementation, each project just needs to according to 
 - The **meta-xxx** platform layer and its sub-meta-layer represents a machine, most of the content of this layer are bbapend files to provide configurations or the implementation of the platform-related functions.
 Each machine is designed to support one-image for multi-SKUs.
 
-### Key Features:
+## Key Features:
 
 - **Platform Global Configuration**
 
-    Some recipes are designed or modified to accept specific config variable to enable/disable/setup functions. A platform can easily configure its setting via the platform_configs.inc file.
+    Some recipes are designed or modified to accept specific config variable to enable/disable/setup functions. A platform can easily configure its setting via the **platform_configs.inc** file.
 
     ***For example, the BMC EEPROM access information***
     
@@ -192,13 +192,32 @@ Each machine is designed to support one-image for multi-SKUs.
     ![post_setSKU.png](figs/post_setSKU.png)
 
 
+- **Component Management and Firmware Updare**
+    
+    (For more details, please see **https://github.com/alan3138319/AlanW#meta-alan**) //TODO
+
+    **- Provide more detail information of firmware inventory**
+
+    ![fwinventory.png](figs/fwinventory.png)
+
+    ![BIOS_Active_Updating.png](figs/BIOS_Active_Updating.png)
+
+    **- Provide information of update progress/state/fail reason**
+
+    ![cpldUpdateFail2.png](figs/cpldUpdateFail2.png)
+
+    **- Provide frameworks/platform hook functions to simplify platform porting**
+
+    Below link demos the BIOS firmare update with debug mode
+
+    - **https://www.linkedin.com/posts/** //TODO
+
 
 - **Common Libraries/Tools For Platform Using**
 
     The **recipes-alan** provides libraries/tools for platform porting needs to increase code reuse.
 
     ![recipe-alan.png](figs/recipe-alan.png)
-
 
 
 ### If you have interests, it's very welcome to contact me.
