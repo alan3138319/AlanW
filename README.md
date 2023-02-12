@@ -194,7 +194,7 @@ Each machine is designed to support one-image for multi-SKUs.
 
 - **Component Management and Firmware Updare**
     
-    (For more details, please see **https://github.com/alan3138319/AlanW/blob/master/ComponentMgmtFWupdate.md#component-firmware-update-and-management**)
+    (For more details, please see **https://github.com/alan3138319/AlanW/blob/master/ComponentMgmtFWupdate.md**)
 
     **- Provide more detail information of firmware inventory**
 
